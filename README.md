@@ -1,7 +1,7 @@
 #  3D Application with Ursina Engine
 
 ## Overview
-This project was developed by **João Pedro Dutra Araujo Ribeiro** using the **Python** programming language.  
+This project was developed using the **Python** programming language.  
 It leverages the **Ursina Engine**, a high-level game engine for Python designed to simplify the creation of **interactive 3D applications**, such as games, simulations, and visualizations.
 
 ---
